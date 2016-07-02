@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FF805EB8-CD09-BB97-C5AF-9084134558B7}") = "Demo VR Project", "Assembly-CSharp-firstpass.csproj", "{57340B45-2674-09F1-30B8-4670EA2C26EE}"
+EndProject
+Project("{FF805EB8-CD09-BB97-C5AF-9084134558B7}") = "Demo VR Project", "Assembly-CSharp.csproj", "{D09EE0D1-A17F-37B1-A500-80A6100A459F}"
+EndProject
+Project("{FF805EB8-CD09-BB97-C5AF-9084134558B7}") = "Demo VR Project", "Assembly-CSharp-Editor.csproj", "{14B72F20-9B28-C1A5-E6D1-248E86421CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57340B45-2674-09F1-30B8-4670EA2C26EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57340B45-2674-09F1-30B8-4670EA2C26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57340B45-2674-09F1-30B8-4670EA2C26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57340B45-2674-09F1-30B8-4670EA2C26EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09EE0D1-A17F-37B1-A500-80A6100A459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09EE0D1-A17F-37B1-A500-80A6100A459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09EE0D1-A17F-37B1-A500-80A6100A459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09EE0D1-A17F-37B1-A500-80A6100A459F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B72F20-9B28-C1A5-E6D1-248E86421CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B72F20-9B28-C1A5-E6D1-248E86421CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B72F20-9B28-C1A5-E6D1-248E86421CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B72F20-9B28-C1A5-E6D1-248E86421CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
